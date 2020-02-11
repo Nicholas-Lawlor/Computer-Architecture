@@ -1,0 +1,4 @@
+11:32:39 INFO  : Registering command handlers for SDK TCF services
+11:32:41 INFO  : Launching XSCT server: xsct.bat -interactive U:\Year 2\computer Arch\temp_xsdb_launch_script.tcl
+11:32:47 ERROR : (XSDB Server)couldn't read file "U:\Year": no such file or directory
+
